@@ -83,6 +83,7 @@ For changelogs, check out [the Releases section of materialize](https://github.c
 
 ## Testing
 We use Jasmine as our testing framework and we're trying to write a robust test suite for our components. If you want to help, [here's a starting guide on how to write tests in Jasmine](CONTRIBUTING.md#jasmine-testing-guide).
+https://daliavazquez.github.io/braille/#demo
 
 ## Contributing
 Check out the [CONTRIBUTING document](CONTRIBUTING.md) in the root of the repository to learn how you can contribute. You can also browse the [help-wanted](https://github.com/Dogfalo/materialize/labels/help-wanted) tag in our issue tracker to find things to do.
